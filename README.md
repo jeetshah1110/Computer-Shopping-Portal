@@ -1,5 +1,7 @@
 # Computer-Shopping-Portal
 
+This application provides a shopping portal which is developed with Java for frontend interface and C for backend computations.
+This application makes use of Java Native Interface to combine the C with Java which reduces the computation complexity of the application.
 ## Steps To Build The Application
 
 - $ javac App.java
